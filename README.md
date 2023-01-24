@@ -6,3 +6,6 @@ Aşşağıda bulunan linkten siteye erişebilirsiniz.
 
 
 [EMKA WEB SİTESİ](http://www.eminkardesler.com.tr)
+
+
+![index.html Ekran görüntüsü](/index.png)
