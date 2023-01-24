@@ -10,4 +10,4 @@ Aşşağıda bulunan linkten siteye erişebilirsiniz.
 ## KahveTarifSitesi index.ejs ve Admin Sayfalarından Örnek Ekran Resimleri
 
 
-![Fotoğraf](https://example.com/images/cat.jpg)
+![Fotoğraf](/index.png)
