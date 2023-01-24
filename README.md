@@ -6,8 +6,3 @@ Aşşağıda bulunan linkten siteye erişebilirsiniz.
 
 
 [EMKA WEB SİTESİ](http://www.eminkardesler.com.tr)
-
-## KahveTarifSitesi index.ejs ve Admin Sayfalarından Örnek Ekran Resimleri
-
-
-![Fotoğraf](/index.png)
