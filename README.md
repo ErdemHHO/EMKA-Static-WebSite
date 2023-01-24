@@ -10,4 +10,4 @@ Aşşağıda bulunan linkten siteye erişebilirsiniz.
 ## KahveTarifSitesi index.ejs ve Admin Sayfalarından Örnek Ekran Resimleri
 
 
-<img width="1426" alt="Ekran Resmi 2023-01-02 23 57 46" src="https://user-images.githubusercontent.com/75128279/210277540-426490d5-ff87-46bc-ae81-a0a39944ea20.png">
+![Fotoğraf](https://example.com/images/cat.jpg)
